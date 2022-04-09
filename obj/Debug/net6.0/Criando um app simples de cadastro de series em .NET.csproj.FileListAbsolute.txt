@@ -1,0 +1,15 @@
+C:\Criando um app simples de cadastro de series em .NET\bin\Debug\net6.0\Criando um app simples de cadastro de series em .NET.exe
+C:\Criando um app simples de cadastro de series em .NET\bin\Debug\net6.0\Criando um app simples de cadastro de series em .NET.deps.json
+C:\Criando um app simples de cadastro de series em .NET\bin\Debug\net6.0\Criando um app simples de cadastro de series em .NET.runtimeconfig.json
+C:\Criando um app simples de cadastro de series em .NET\bin\Debug\net6.0\Criando um app simples de cadastro de series em .NET.dll
+C:\Criando um app simples de cadastro de series em .NET\bin\Debug\net6.0\Criando um app simples de cadastro de series em .NET.pdb
+C:\Criando um app simples de cadastro de series em .NET\obj\Debug\net6.0\Criando um app simples de cadastro de series em .NET.csproj.AssemblyReference.cache
+C:\Criando um app simples de cadastro de series em .NET\obj\Debug\net6.0\Criando um app simples de cadastro de series em .NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Criando um app simples de cadastro de series em .NET\obj\Debug\net6.0\Criando um app simples de cadastro de series em .NET.AssemblyInfoInputs.cache
+C:\Criando um app simples de cadastro de series em .NET\obj\Debug\net6.0\Criando um app simples de cadastro de series em .NET.AssemblyInfo.cs
+C:\Criando um app simples de cadastro de series em .NET\obj\Debug\net6.0\Criando um app simples de cadastro de series em .NET.csproj.CoreCompileInputs.cache
+C:\Criando um app simples de cadastro de series em .NET\obj\Debug\net6.0\Criando um app simples de cadastro de series em .NET.dll
+C:\Criando um app simples de cadastro de series em .NET\obj\Debug\net6.0\refint\Criando um app simples de cadastro de series em .NET.dll
+C:\Criando um app simples de cadastro de series em .NET\obj\Debug\net6.0\Criando um app simples de cadastro de series em .NET.pdb
+C:\Criando um app simples de cadastro de series em .NET\obj\Debug\net6.0\Criando um app simples de cadastro de series em .NET.genruntimeconfig.cache
+C:\Criando um app simples de cadastro de series em .NET\obj\Debug\net6.0\ref\Criando um app simples de cadastro de series em .NET.dll
